@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **azrielbsi/azrielbsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<details open>
+  <summary><h2>🐍 Watch my contribution graph get eaten by the snake</h2></summary>
+
+<p align="center">
+  <img title="🐍 Snake contributions" src="https://github.com/azrielbsi/azrielbsi/blob/output/github-contribution-grid-snake-dark.svg">
+</p>
+</details>
