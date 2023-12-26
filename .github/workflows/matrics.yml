@@ -178,4 +178,4 @@ jobs:
             plugin_music_provider: spotify
             plugin_music_time_range: short
             plugin_music_top_type: tracks
-            plugin_music_user: .user.313w7gwusryjcgatpheimipv3fqu
+            plugin_music_user: ${{ secrets.SPOTIFY_TOKEN }}
