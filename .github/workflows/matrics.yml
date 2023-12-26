@@ -35,6 +35,10 @@ jobs:
            plugin_lines_repositories_limit: 4
            plugin_lines_sections: base
 
+           # topic
+           plugin_topics: yes
+           plugin_topics_limit: 0
+           plugin_topics_mode: icons
       #     # Habits
       #     plugin_habits: yes
       #     plugin_habits_charts_type: classic
