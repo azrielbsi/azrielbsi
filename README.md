@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 </details>
 
 <p>
-  <a href="metrics/metrics-core.svg"></a>
+  <a href=""><img src="metrics/metrics-core.svg"></a>
 </p>
