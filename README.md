@@ -22,5 +22,7 @@ Here are some ideas to get you started:
 </details>
 
 <p>
-  <a href=""><img src="metrics/metrics-core.svg"></a>
+  <a href=""><img align="left" src="metrics/metrics-core.svg"></a>
+  <a href=""><img align="right" width="390" src="metrics/metrics-achievements.svg"></a>
+  <a href=""><img align="left" src="metrics/metrics-community.svg"></a>
 </p>
