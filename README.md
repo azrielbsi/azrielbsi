@@ -20,3 +20,7 @@ Here are some ideas to get you started:
   <img title="🐍 Snake contributions" src="https://github.com/azrielbsi/azrielbsi/blob/output/github-contribution-grid-snake-dark.svg">
 </p>
 </details>
+
+<p>
+  <a href="metrics/metrics-core.svg"></a>
+</p>
