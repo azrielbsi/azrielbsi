@@ -19,7 +19,7 @@ jobs:
            template: classic
           
            # Base
-           base: header, activity, community, repositories, metadata
+           base: header, repositories
            base_hireable: yes
            base_indepth: yes
           
