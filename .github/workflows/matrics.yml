@@ -15,7 +15,7 @@ jobs:
          with:
            filename: metrics-core.svg
            token: ${{ secrets.METRICS_TOKEN }}
-           user: NikarashiHatsu
+           user: azrielbsi
            template: classic
           
            # Base
