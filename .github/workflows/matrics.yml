@@ -13,7 +13,7 @@ jobs:
      steps:
        - uses: lowlighter/metrics@latest
          with:
-           filename: metrics-core.svg
+           filename: metrics/metrics-core.svg
            token: ${{ secrets.METRICS_TOKEN }}
            user: azrielbsi
            template: classic
@@ -60,7 +60,7 @@ jobs:
       steps:
         - uses: lowlighter/metrics@latest
           with:
-            filename: metrics-isometric.svg
+            filename: metrics/metrics-isometric.svg
             token: ${{ secrets.METRICS_TOKEN }}
             user: azrielbsi
             template: classic
@@ -80,7 +80,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics-community.svg
+          filename: metrics/metrics-community.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: azrielbsi
           template: classic
@@ -115,7 +115,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics-achievements.svg
+          filename: metrics/metrics-achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: azrielbsi
           template: classic
@@ -137,7 +137,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics-languages.svg
+          filename: metrics/metrics-languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: azrielbsi
           template: classic
