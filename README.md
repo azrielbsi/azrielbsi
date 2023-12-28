@@ -15,14 +15,13 @@ Here are some ideas to get you started:
 
 <details open>
   <summary><h2>🐍 Watch my contribution graph get eaten by the snake</h2></summary>
-
-<p align="center">
-  <img title="🐍 Snake contributions" src="https://github.com/azrielbsi/azrielbsi/blob/output/github-contribution-grid-snake-dark.svg">
-</p>
+  <p align="center">
+    <img title="🐍 Snake contributions" src="https://github.com/azrielbsi/azrielbsi/blob/output/github-contribution-grid-snake-dark.svg">
+  </p>
 </details>
 
 <details open>
-  <h3>📊 Metrics</h3>
+  <summary><h3>📊 Metrics</h3></summary>
   <p>
     <a href="https://github.com/Julius-Ulee">
       <img align="center" width="390" src="metrics/metrics-core.svg"></a>
