@@ -21,9 +21,18 @@ Here are some ideas to get you started:
 </p>
 </details>
 
-<p>
-  <a href=""><img align="left" width="390" src="metrics/metrics-core.svg"></a>
-  <a href=""><img align="right" width="390" src="metrics/metrics-community.svg"></a>
-  <a href=""><img align="right" width="390" src="metrics/metrics-achievements.svg"></a>
-  <a href=""><img align="left" width="390" src="metrics/metrics-isometric.svg"></a>
-</p>
+<details open>
+  <h3>📊 Metrics</h3>
+  <p>
+    <a href="https://github.com/Julius-Ulee">
+      <img align="center" width="390" src="metrics/metrics-core.svg"></a>
+    <a href="https://github.com/Julius-Ulee">
+      <img align="center" width="390" src="metrics/metrics-languages.svg"></a>
+    <a href="https://github.com/Julius-Ulee">
+      <img align="center" width="390" src="metrics/metrics-isometric.svg"></a>
+    <a href="https://github.com/Julius-Ulee">
+      <img align="center" width="390" src="metrics/metrics-community.svg"></a>
+    <a href="https://github.com/Julius-Ulee">
+      <img align="center" width="390" src="metrics/metrics-achievements.svg"></a>
+  </p>
+</details>
