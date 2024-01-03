@@ -30,8 +30,8 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-          author_name: 'GitHub Actions'
-          author_email: 'action@github.com'
+          author_name: ${{ github.repository_owner }}
+          author_email: 19215261@bsi.ac.id
           message: ':rocket: Update snake'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
