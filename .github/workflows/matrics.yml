@@ -15,6 +15,9 @@ jobs:
          with:
            filename: metrics/metrics-core.svg
            token: ${{ secrets.METRICS_TOKEN }}
+           committer_username: ${{ github.repository_owner }}
+           committer_email: fidzlieazriel@gmail.com
+           commit_message: "📔Matrics"
            user: azrielbsi
            template: classic
           
