@@ -43,6 +43,9 @@ jobs:
            plugin_topics_limit: 0
            plugin_topics_mode: icons
 
+           # notable
+           plugin_notable: yes
+
    metrics-isometric:
       runs-on: ubuntu-latest
       permissions:
