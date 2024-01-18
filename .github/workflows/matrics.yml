@@ -15,6 +15,7 @@ jobs:
          with:
            filename: metrics/metrics-core.svg
            token: ${{ secrets.METRICS_TOKEN }}
+           committer_message: "chore: update metrics"
            user: azrielbsi
            template: classic
           
