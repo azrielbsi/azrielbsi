@@ -39,13 +39,6 @@ jobs:
            plugin_topics: yes
            plugin_topics_limit: 0
            plugin_topics_mode: icons
-       - name: Commit & Push
-         run: |
-           git config user.name ${{ github.repository_owner }}
-           git config user.email fidzlieazriel@gmail.com
-           git add -A .
-           git commit -m "🖼️ matrics"
-           git push
 
    metrics-isometric:
       runs-on: ubuntu-latest
