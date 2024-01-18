@@ -16,6 +16,8 @@ jobs:
            filename: metrics/metrics-core.svg
            token: ${{ secrets.METRICS_TOKEN }}
            committer_message: "chore: update metrics"
+           committer_user: azrielbsi
+           committer_email: 19215261@bsi.ac.id
            user: azrielbsi
            template: classic
           
