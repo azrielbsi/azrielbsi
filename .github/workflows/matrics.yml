@@ -15,9 +15,7 @@ jobs:
          with:
            filename: metrics/metrics-core.svg
            token: ${{ secrets.METRICS_TOKEN }}
-           committer_username: azrielbsi
-           committer_email: 19215261@bsi.ac.id
-           committer_message: "chore: update metrics"
+           committer_message: "📊 update metrics"
            user: azrielbsi
            template: classic
           
@@ -55,6 +53,7 @@ jobs:
           with:
             filename: metrics/metrics-isometric.svg
             token: ${{ secrets.METRICS_TOKEN }}
+            committer_message: "📊 update metrics"
             user: azrielbsi
             template: classic
             
@@ -75,6 +74,7 @@ jobs:
         with:
           filename: metrics/metrics-community.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          committer_message: "📊 update metrics"
           user: azrielbsi
           template: classic
           
@@ -110,6 +110,7 @@ jobs:
         with:
           filename: metrics/metrics-achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          committer_message: "📊 update metrics"
           user: azrielbsi
           template: classic
           
@@ -132,6 +133,7 @@ jobs:
         with:
           filename: metrics/metrics-languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          committer_message: "📊 update metrics"
           user: azrielbsi
           template: classic
           
