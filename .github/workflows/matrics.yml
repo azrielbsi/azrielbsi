@@ -65,6 +65,11 @@ jobs:
             plugin_isocalendar: yes
             plugin_isocalendar_duration: full-year
 
+            plugin_licenses: yes
+            plugin_licenses_setup: npm ci
+            plugin_licenses_legal: no
+            plugin_licenses_ratio: yes
+
             # discussions
             plugin_discussions: yes
             plugin_discussions_categories_limit: 8
