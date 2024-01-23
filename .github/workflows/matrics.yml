@@ -65,10 +65,10 @@ jobs:
             plugin_isocalendar: yes
             plugin_isocalendar_duration: full-year
 
-            plugin_licenses: yes
-            plugin_licenses_setup: npm ci
-            plugin_licenses_legal: no
-            plugin_licenses_ratio: yes
+            plugin_activity: yes
+            plugin_activity_limit: 5
+            plugin_activity_days: 0
+            plugin_activity_filter: issue, pr, release, fork, review, ref/create
 
             # discussions
             plugin_discussions: yes
