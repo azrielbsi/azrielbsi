@@ -167,4 +167,6 @@ jobs:
           user: azrielbsi
           template: classic
 
+          #base
+          base: ""
           plugin_fortune: yes
