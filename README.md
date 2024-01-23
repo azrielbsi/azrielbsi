@@ -34,6 +34,6 @@ Here are some ideas to get you started:
     <a href="https://github.com/Julius-Ulee">
       <img align="center" width="390" src="metrics/metrics-achievements.svg"></a>
     <a href="https://github.com/Julius-Ulee">
-      <img align="center" width="390" height="1" src="metrics/metrics-fortune.svg"></a>
+      <img align="center" width="390" src="metrics/metrics-fortune.svg"></a>
   </p>
 </details>
