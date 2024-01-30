@@ -90,6 +90,10 @@ jobs:
           # Base
           base: ""
           config_timezone: Asia/Jakarta
+
+          # leetcode
+          plugin_leetcode: yes
+          plugin_leetcode_sections: solved, skills, recent
           
           # Follow-up Issues and PRs
           plugin_followup: yes
