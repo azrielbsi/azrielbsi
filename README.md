@@ -21,6 +21,18 @@ Here are some ideas to get you started:
 </details>
 
 <details open>
+  <summary><h2>🔖 Recent Blog Post</h2></summary>
+
+  <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
+
+  <summary><h2>📐 School Programs</h2></summary>
+
+  <!-- School-Programs:START -->
+  <!-- School-Programs:END -->
+</details>
+
+<details open>
   <summary><h3>📊 Metrics</h3></summary>
   <p>
     <a href="https://github.com/Julius-Ulee">
