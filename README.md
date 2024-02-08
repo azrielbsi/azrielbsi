@@ -21,12 +21,15 @@ Here are some ideas to get you started:
 </details>
 
 <details open>
-  <summary><h2>🔖 Recent Blog Post</h2></summary>
+  <summary><h2>Activity</h2></summary>
+
+
+  <h3>🔖 Recent Blog Post</h3>
 
   <!-- BLOG-POST-LIST:START -->
   <!-- BLOG-POST-LIST:END -->
 
-  <summary><h2>📐 School Programs</h2></summary>
+  <h3>📐 School Programs</h3>
 
   <!-- School-Programs:START -->
   <!-- School-Programs:END -->
