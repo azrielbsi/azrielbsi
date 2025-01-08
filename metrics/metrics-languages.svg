@@ -21,8 +21,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="238.76013300979596" height="8" fill="#292929"/>
-                    <rect mask="url(#languages-bar)" x="238.76013300979596" y="0" width="113.0259728588119" height="8" fill="#083fa1"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="238.77253527455738" height="8" fill="#292929"/>
+                    <rect mask="url(#languages-bar)" x="238.77253527455738" y="0" width="113.0135705940505" height="8" fill="#083fa1"/>
                     <rect mask="url(#languages-bar)" x="351.7861058686079" y="0" width="52.82951379527276" height="8" fill="#f1e05a"/>
                     <rect mask="url(#languages-bar)" x="404.6156196638806" y="0" width="35.67304754201492" height="8" fill="#e34c26"/>
                     <rect mask="url(#languages-bar)" x="440.28866720589554" y="0" width="18.21479284622989" height="8" fill="#cb171e"/>
