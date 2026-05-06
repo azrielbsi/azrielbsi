@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-**azrielbsi/azrielbsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/King-Ulee">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=440&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&repeat=false&width=435&lines=@{{USERNAME}}" alt="Typing SVG" />
+  </a>
+</p>
 
 Here are some ideas to get you started:
 
