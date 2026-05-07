@@ -31,11 +31,11 @@ Here are some ideas to get you started:
   <h3>🔖 Recent Blog Post</h3>
 
   <!-- BLOG-POST-LIST:START -->
- - 📔 Jan 2, 2024 [Create a Daily Weather Report](https://julius-ulee.github.io/posts/weather/)
- - 📔 Nov 19, 2023 [School Programs Status: The monitoring real-time data from our GitHub repository.](https://julius-ulee.github.io/posts/status/)
- - 📗 Nov 9, 2023 [School Program: Achieving Learning Success: Commitment, Perseverance, and Consistency](https://julius-ulee.github.io/posts/school-program/)
- - 📘 Nov 5, 2023 [🦖Holobyte Hunter: Life of Pegasaurus](https://julius-ulee.github.io/posts/holobyte/)
- - 📙 Sep 3, 2023 [Daily Check-In Genshin Impact, Honkai Impact, Honkai: Star Rail](https://julius-ulee.github.io/posts/daily-check-in/)<!-- BLOG-POST-LIST:END -->
+ - 📔 May 1, 2026 [Web Programming I #02: Introduction to HTML](https://www.kingulee.com/study/programming/web/practicum-module-1/chapter-02-introduction-to-html/)
+ - 📔 Apr 30, 2026 [Web Programming I #01: Basic Concepts of Web](https://www.kingulee.com/study/programming/web/practicum-module-1/chapter-01-basic-concept-of-web/)
+ - 📗 Apr 27, 2026 [Logic and Algorithm #12: Problems and Graph Models in Greedy Method](https://www.kingulee.com/study/programming/algorithm-logic/12-problems-and-graph-models-in-greedy-method/)
+ - 📘 Apr 26, 2026 [Logic and Algorithm #11: Greedy Method](https://www.kingulee.com/study/programming/algorithm-logic/11-greedy-method/)
+ - 📙 Apr 25, 2026 [Logic and Algorithms #10: Searching Techniques and Introduction to Algorithm Analysis](https://www.kingulee.com/study/programming/algorithm-logic/10-searching-techniques-and-introduction-to-algorithm-analysis/)<!-- BLOG-POST-LIST:END -->
 
   <h3>📐 School Programs</h3>
 
