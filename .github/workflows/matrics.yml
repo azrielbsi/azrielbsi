@@ -48,7 +48,7 @@ jobs:
       steps:
         - uses: lowlighter/metrics@latest
           with:
-            filename: metrics.plugin.wakatime.svg
+            filename: metrics/metrics-wakatime.svg
             token: NOT_NEEDED
             base: ""
             plugin_wakatime: yes
