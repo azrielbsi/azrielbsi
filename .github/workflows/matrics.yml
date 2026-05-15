@@ -57,22 +57,22 @@ jobs:
             plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
             plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
 
-   metrics-xkcd:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics/metrics-xkcd.svg
-          committer_message: "📊 Update Metrics with the Github Action"
-          user: ${{ github.repository_owner }}
-          token: ""
-          base: ""
-          plugin_screenshot: yes
-          plugin_screenshot_title: XKCD of the day
-          plugin_screenshot_url: https://xkcd.com
-          plugin_screenshot_selector: "#comic img"
+   # metrics-xkcd:
+   #  runs-on: ubuntu-latest
+   #  permissions:
+   #    contents: write
+   #  steps:
+   #    - uses: lowlighter/metrics@latest
+   #      with:
+   #        filename: metrics/metrics-xkcd.svg
+   #        committer_message: "📊 Update Metrics with the Github Action"
+   #        user: ${{ github.repository_owner }}
+   #        token: ""
+   #        base: ""
+   #        plugin_screenshot: yes
+   #        plugin_screenshot_title: XKCD of the day
+   #        plugin_screenshot_url: https://xkcd.com
+   #        plugin_screenshot_selector: "#comic img"
 
    metrics-pagespeed:
       runs-on: ubuntu-latest
