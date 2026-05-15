@@ -1,0 +1,23 @@
+name: Update Name Automatically
+on:
+  schedule:
+    - cron: '0 0 * * *' # Berjalan setiap hari
+  workflow_dispatch: # Bisa dijalankan manual
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Get GitHub Profile Name
+        run: |
+          # Mengambil nama asli dari API GitHub
+          NAME=$(curl -s https://api.github.com/users/USERNAME_ANDA | jq -r .name)
+          # Mengganti placeholder di README.md
+          sed -i "s/{{NAME}}/$NAME/g" README.md
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git commit -am "Update profile name" || exit 0
+          git push
