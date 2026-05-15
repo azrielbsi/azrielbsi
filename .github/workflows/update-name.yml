@@ -17,7 +17,7 @@ jobs:
           sed -i "s/{{NAME}}/$NAME/g" README.md
       - name: Commit changes
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "19215261@bsi.ac.id"
+          git config --local user.name "azrielbsi"
           git commit -am "Update profile name" || exit 0
           git push
