@@ -49,6 +49,8 @@ jobs:
         - uses: lowlighter/metrics@latest
           with:
             filename: metrics/metrics-wakatime.svg
+            committer_message: "📊 Update Metrics with the Github Action"
+            user: ${{ github.repository_owner }}
             token: NOT_NEEDED
             base: ""
             plugin_wakatime: yes
@@ -63,6 +65,8 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics/metrics-activity.svg
+          committer_message: "📊 Update Metrics with the Github Action"
+          user: ${{ github.repository_owner }}
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_activity: yes
