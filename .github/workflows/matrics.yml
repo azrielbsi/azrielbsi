@@ -41,6 +41,9 @@ jobs:
            plugin_topics_limit: 0
            plugin_topics_mode: icons
 
+           # nota
+           plugin_notable: yes
+
    metrics-wakatime:
       runs-on: ubuntu-latest
       permissions:
