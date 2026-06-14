@@ -31,11 +31,11 @@ Here are some ideas to get you started:
   <h3>🔖 Recent Blog Post</h3>
 
   <!-- BLOG-POST-LIST:START -->
- - 📔 May 1, 2026 [Web Programming I #02: Introduction to HTML](https://www.kingulee.com/study/programming/web/practicum-module-1/chapter-02-introduction-to-html/)
- - 📔 Apr 30, 2026 [Web Programming I #01: Basic Concepts of Web](https://www.kingulee.com/study/programming/web/practicum-module-1/chapter-01-basic-concept-of-web/)
- - 📗 Apr 27, 2026 [Logic and Algorithm #12: Problems and Graph Models in Greedy Method](https://www.kingulee.com/study/programming/algorithm-logic/12-problems-and-graph-models-in-greedy-method/)
- - 📘 Apr 26, 2026 [Logic and Algorithm #11: Greedy Method](https://www.kingulee.com/study/programming/algorithm-logic/11-greedy-method/)
- - 📙 Apr 25, 2026 [Logic and Algorithms #10: Searching Techniques and Introduction to Algorithm Analysis](https://www.kingulee.com/study/programming/algorithm-logic/10-searching-techniques-and-introduction-to-algorithm-analysis/)<!-- BLOG-POST-LIST:END -->
+ - 📔 Jun 2, 2026 [Character Building: Mengembangkan Diri](https://kingulee.com/posts/2026-06-character-building-part-3-self-development/)
+ - 📔 Jun 1, 2026 [Character Building: Menerima Diri](https://kingulee.com/posts/2026-06-character-building-part-2-accepting-yourself/)
+ - 📗 May 31, 2026 [Character Building: Mengenal Diri Sendiri](https://kingulee.com/posts/2026-06-character-building-part-1-knowing-yourself/)
+ - 📘 Dec 24, 2025 [Implementasi Sistem Ujian Online SMKN 34 Jakarta](https://kingulee.com/portofolio/implementation-of-smkn-34-jakarta-online-examination-system/)
+ - 📙 Apr 28, 2025 [Lampiran](https://kingulee.com/resume/)<!-- BLOG-POST-LIST:END -->
 
   <h3>📐 School Programs</h3>
 
